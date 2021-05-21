@@ -1,2 +1,2 @@
 # Telecom-Churn-Analysis
-·Analyze the key factor responsible for customer churn.
+·Analyzing the key factor responsible for customer churn.
